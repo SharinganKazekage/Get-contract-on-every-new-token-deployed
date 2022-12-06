@@ -1,0 +1,1 @@
+# Get-contract-on-every-new-token-deployed
